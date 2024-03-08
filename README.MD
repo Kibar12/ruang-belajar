@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<rizkyAkbar> - <id>`
+- `<rizkyAkbar> - <BE8654267>`
 - Bob
